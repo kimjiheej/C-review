@@ -1,0 +1,6 @@
+HW3_2
+scanf_s("%d", &totalseconds);//scanf_s("%d\n)안됨. \n 쓰면 안됨
+ -Don't use \n when use scanf_s 
+ 
+
+	
